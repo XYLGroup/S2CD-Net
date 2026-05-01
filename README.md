@@ -357,6 +357,6 @@ This code is based on [`MambaIRv2`](https://github.com/csguoh/MambaIR) ,[`Contex
 
 The majority of S2CD-Net is licensed under an [Apache License 2.0](https://github.com/XYLGroup/S2CD-Net/LICENSE)
 
-# Contact 
+# 📧 Contact 
 
 If you have any questions, please feel free to contact us at lingyu25@nudt.edu.cn.
